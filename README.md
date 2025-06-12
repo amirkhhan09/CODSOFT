@@ -1,15 +1,16 @@
-# 🚀 CodSoft Python Internship - Task 1
+# 🔢 CodSoft Python Internship - Task 2
 
-## 📝 Project: To-Do List App
+## 🧮 Project: Calculator App
 
-This is a simple command-line Python application that helps users manage daily tasks.
+This is a command-line calculator built with Python that supports basic arithmetic operations.
 
 ### 🔧 Features:
-- ➕ Add Task
-- 📄 View All Tasks
-- ✏️ Edit Existing Task
-- ❌ Delete Task
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+- ❗ Error handling (invalid input, divide by zero)
 
 ### 🖥️ How to Run:
 ```bash
-python todo.py
+python calculator.py
