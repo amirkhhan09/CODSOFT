@@ -1,16 +1,19 @@
-# 🔢 CodSoft Python Internship - Task 2
+# 🔐 CodSoft Python Internship - Task 3
 
-## 🧮 Project: Calculator App
+## 🧪 Project: Password Generator
 
-This is a command-line calculator built with Python that supports basic arithmetic operations.
+This is a Python-based password generator that creates secure and random passwords based on user-defined length.
 
 ### 🔧 Features:
-- ➕ Addition
-- ➖ Subtraction
-- ✖️ Multiplication
-- ➗ Division
-- ❗ Error handling (invalid input, divide by zero)
+- Mix of uppercase, lowercase, numbers, and symbols
+- Ensures strong structure (at least 1 of each)
+- Input validation
+- Random & unique result each time
 
 ### 🖥️ How to Run:
 ```bash
-python calculator.py
+python password_generator.py
+
+# sample output 
+Enter desired password length: 12  
+✅ Generated Password: #aT8z@U9q!Lm
